@@ -40,6 +40,7 @@ public class DisasterReport {
       message = "No disasters at this time";  // reassign instance variable OK
       button.setText("OK To Press Me Now");   // does not break rules of a final variable
       // TODO: reassign button to reference a *new* JButton object
+      //
     });
     
     // finish UI setup
